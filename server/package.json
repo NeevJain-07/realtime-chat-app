@@ -1,7 +1,8 @@
 {
-  "name": "chat-server",
+  "name": "chat-backend",
   "version": "1.0.0",
   "main": "server.js",
+  "type": "commonjs",
   "scripts": {
     "start": "node server.js"
   },
